@@ -1,4 +1,6 @@
-22:20:25.403 [pool-2-thread-2] DEBUG base.TestBase - Property value got successfully Name : url
-22:20:38.530 [pool-2-thread-2] INFO  base.TestBase - Browser window opened in full screen mode
-22:20:38.530 [pool-2-thread-2] INFO  base.TestBase -  Url launched suceessfully
-22:20:38.531 [pool-2-thread-2] INFO  tests.HomePageTest - Initialization of driver done
+16:26:32.099 [main] DEBUG base.TestBase -  Cofiguration file loaded
+16:26:32.177 [main] DEBUG base.TestBase - Property value got successfully Name : broswer 
+16:35:18.368 [main] DEBUG base.TestBase -  Cofiguration file loaded
+16:35:18.368 [main] DEBUG base.TestBase - Property value got successfully Name : broswer 
+16:46:18.750 [main] DEBUG base.TestBase -  Cofiguration file loaded
+16:46:18.750 [main] DEBUG base.TestBase - Property value got successfully Name : broswer 

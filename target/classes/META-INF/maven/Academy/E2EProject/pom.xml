@@ -25,8 +25,6 @@
 
 		</plugins>
 	</build>
-
-
 	<dependencies>
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
@@ -35,12 +33,14 @@
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>7.1.0</version>
 			<scope>test</scope>
 		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/log4j/log4j -->
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
@@ -54,12 +54,12 @@
 		</dependency>
 		<!-- pom.xml -->
 		<!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
-<dependency>
-    <groupId>com.aventstack</groupId>
-    <artifactId>extentreports</artifactId>
-    <version>5.0.1</version>
-</dependency>
-		
+		<dependency>
+			<groupId>com.aventstack</groupId>
+			<artifactId>extentreports</artifactId>
+			<version>5.0.1</version>
+		</dependency>
+
 
 		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
 		<dependency>
